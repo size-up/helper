@@ -1,0 +1,14 @@
+{
+  "name": "semantic-release-helper",
+  "version": "1.0.0",
+  "description": "Retrieve and print all Gitmojis by semver. This could help to construct your .releaserc.js file.",
+  "private": true,
+  "main": "semantic-release-helper.js",
+  "author": "Anthony Pillot",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node semantic-release-helper.js"
+  },
+  "dependencies": {}
+}
